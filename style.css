@@ -1,7 +1,37 @@
+body {
+  background-color: lightblue;
+}
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: 1000;
   padding: 0;
-  widthe: 200px;
+  width: 200px;
   background-color: #f1f1f1;
+  text-align: center;
+  
 }
+h1 {
+  color: orange;
+  text-align: center;
+}
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: inherit;
+}
+h2 {
+  color: green;
+  text-align: center;
+}
+h3 {
+  color: red;
+  text-align: center;
+}
+ol {
+  list-style-type: none;
+  margin: 40;
+  padding: 40;
+  width: 200px;
+  background-color: rgba(230, 0, 50, 0.5);
+  text-align: center;
